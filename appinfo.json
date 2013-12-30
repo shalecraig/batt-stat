@@ -1,0 +1,17 @@
+{
+  "uuid": "ded1b0b2-c562-4776-83a3-bc63422f9aed",
+  "shortName": "batt-stat",
+  "longName": "batt-stat",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
